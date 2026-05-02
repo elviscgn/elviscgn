@@ -163,6 +163,9 @@ pub fn main() void {
 
 ---
 
+## Github Awards
+![elviscgn trophies](https://github-profile-trophy.vercel.app/?username=elviscgn&theme=onedark&row=1&column=6)
+
 ## GitHub Analytics
 
 <div align="center">
@@ -173,5 +176,4 @@ pub fn main() void {
 
 </div>
 
-## Github Awards
-https://github-profile-trophy.vercel.app/?username=elviscgn&theme=dracula&row=1&column=6
+
