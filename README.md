@@ -103,8 +103,8 @@ pub fn main() void {
     <td align="center" width="340">
       <img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-Mjanga%20AI%20Challenge-FF6B35?style=for-the-badge&labelColor=0d1117" />
       <br/><br/>
-      <sub><b>Mjanga AI Challenge</b></sub><br/>
-      <sub>🥇 First Place · Pan-African</sub>
+      <sub><b>Mjanga AI Hackathon</b></sub><br/>
+      <sub>🥇 First Place · Africa wide hackathon</sub>
     </td>
   </tr>
 </table>
