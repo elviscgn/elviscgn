@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=700&color=FF6B35&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Elvis+Chege.;Software+Engineer.;Full-stack.+Systems.+Whatever+it+takes.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=700&color=FF6B35&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Elvis+Chege.;Software+Engineer.;Full-stack.+Systems.+Whatever+it+takes.)](https://git.io/typing-svg) 
 
 <br/>
 
@@ -9,6 +9,7 @@
 [![X](https://img.shields.io/badge/X-%40elviscgn-000?style=flat-square&logo=x&logoColor=white)](https://x.com/elviscgn)
 &nbsp;&nbsp;
 [![committers.top badge](https://user-badge.committers.top/south_africa/elviscgn.svg)](https://user-badge.committers.top/south_africa/elviscgn)
+[![wakatime](https://wakatime.com/badge/user/dddb4f31-40cf-4cc3-8ab4-60495e37689b.svg)](https://wakatime.com/@dddb4f31-40cf-4cc3-8ab4-60495e37689b)
 
 </div>
 
