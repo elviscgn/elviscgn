@@ -32,7 +32,7 @@ const Elvis = struct {
 pub fn main() void {
     const me = Elvis{
         .location = .{
-            .from = "🇰🇪 Nairobi",
+            .from = "🇰🇪 Kiambu",
             .based = "🇿🇦 Johannesburg",
         },
         .currently_at = "WeThinkCode_ + freelancing",
