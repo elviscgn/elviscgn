@@ -172,3 +172,6 @@ pub fn main() void {
 [![Elvis's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elviscgn&bg_color=0d1117&color=FF6B35&line=FF6B35&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+## Github Awards
+https://github-profile-trophy.vercel.app/?username=elviscgn&theme=dracula&row=1&column=6
