@@ -8,8 +8,6 @@
 &nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-%40elviscgn-000?style=flat-square&logo=x&logoColor=white)](https://x.com/elviscgn)
 &nbsp;&nbsp;
-![WeThinkCode_](https://img.shields.io/badge/WeThinkCode__-Student-FF6B35?style=flat-square)
-&nbsp;&nbsp;
 [![committers.top badge](https://user-badge.committers.top/south_africa/elviscgn.svg)](https://user-badge.committers.top/south_africa/elviscgn)
 
 </div>
