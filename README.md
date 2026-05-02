@@ -26,7 +26,6 @@ const Elvis = struct {
     currently_at: []const u8,
     building: []const []const u8,
     philosophy: []const u8,
-    hackathons: []const u8,
 };
 
 pub fn main() void {
@@ -40,10 +39,9 @@ pub fn main() void {
             "databases from scratch",
             "chess engines in Zig",
             "full-stack products end-to-end",
-            "whatever scares me a little",
+            "whatever scares me",
         },
         .philosophy = "The next project should be harder than the last.",
-        .hackathons = "Show me one and I'll be there.",
     };
 }
 ```
