@@ -6,8 +6,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=elviscgn&color=FF6B35&style=flat-square&label=PROFILE+VIEWS)
 &nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-%40elviscgn-000?style=flat-square&logo=x&logoColor=white)](https://x.com/elviscgn)
-&nbsp;&nbsp;
 [![committers.top badge](https://user-badge.committers.top/south_africa/elviscgn.svg)](https://user-badge.committers.top/south_africa/elviscgn)
 [![wakatime](https://wakatime.com/badge/user/dddb4f31-40cf-4cc3-8ab4-60495e37689b.svg)](https://wakatime.com/@dddb4f31-40cf-4cc3-8ab4-60495e37689b)
 
