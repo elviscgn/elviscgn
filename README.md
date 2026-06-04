@@ -100,6 +100,12 @@ pub fn main() void {
 <table border="0">
   <tr>
     <td align="center" width="340">
+      <img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-ITWeb%20SS26Hack-FF6B35?style=for-the-badge&labelColor=0d1117" />
+      <br/><br/>
+      <sub><b>ITWeb Security Summit Hackathon 2026</b></sub><br/>
+      <sub>🥇 National Champions · Sandton Convention Centre</sub>
+    </td>
+    <td align="center" width="340">
       <img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-Mjanga%20AI%20Challenge-FF6B35?style=for-the-badge&labelColor=0d1117" />
       <br/><br/>
       <sub><b>Mjanga AI Hackathon</b></sub><br/>
@@ -114,6 +120,19 @@ pub fn main() void {
 ---
 
 ## Featured Projects
+
+### [Doria — AI-Powered Supply Chain Security](https://github.com/doria-sec/Doria)
+> Security tool built for the AI-assisted development era. Catches slopsquatting attacks, AI-hallucinated package names registered with malware before they touch your disk. Stateless AST engine in Rust, ML threat intelligence in Python, real-time dashboard in TypeScript. National champions at the ITWeb Security Summit Hackathon 2026. 🏆
+
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=FF6B35)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+
+### [DoriaWeb — Dashboard & Landing](https://github.com/doria-sec/DoriaWeb)
+> Real-time security dashboard for Doria. Connects your GitHub repositories, surfaces active threats, exposed secrets, and outdated dependencies across your entire engineering org. Role-based access, autonomous remediation via doria-bot.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
 ### [UkweliDB](https://github.com/elviscgn/UkweliDB)
 > A tamper-proof, verifiable, immutable database — written from scratch in Rust.
@@ -173,5 +192,3 @@ pub fn main() void {
 [![Elvis's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elviscgn&bg_color=0d1117&color=FF6B35&line=FF6B35&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-
