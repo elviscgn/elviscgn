@@ -134,6 +134,8 @@ pub fn main() void {
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
+---
+
 ### [UkweliDB](https://github.com/elviscgn/UkweliDB)
 > A tamper-proof, verifiable, immutable database — written from scratch in Rust.
 
