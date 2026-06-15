@@ -121,14 +121,15 @@ pub fn main() void {
 
 ## Featured Projects
 
-### [Doria — AI-Powered Supply Chain Security](https://github.com/doria-sec/Doria)
-> Security tool built for the AI-assisted development era. Catches slopsquatting attacks, AI-hallucinated package names registered with malware before they touch your disk. Stateless AST engine in Rust, ML threat intelligence in Python, real-time dashboard in TypeScript. National champions at the ITWeb Security Summit Hackathon 2026. 🏆
+### [Doria](https://github.com/doria-sec/Doria)
+> Security tool built for the AI-assisted development era. Catches slopsquatting attacks, AI-hallucinated package names registered with malware before they touch your disk.
+> National champions at the ITWeb Security Summit Hackathon 2026. 🏆
 
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=FF6B35)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=FFD43B)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 
-### [DoriaWeb — Dashboard & Landing](https://github.com/doria-sec/DoriaWeb)
+### [DoriaWeb](https://github.com/doria-sec/DoriaWeb)
 > Real-time security dashboard for Doria. Connects your GitHub repositories, surfaces active threats, exposed secrets, and outdated dependencies across your entire engineering org. Role-based access, autonomous remediation via doria-bot.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
