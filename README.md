@@ -184,7 +184,8 @@ pub fn main() void {
 ---
 
 ## Github Awards
-![elviscgn trophies](https://github-profile-trophy.vercel.app/?username=elviscgn&theme=onedark&row=1&column=6)
+![elviscgn trophies](https://trophy.benkou.dev/?username=elviscgn&theme=gruvbox&row=1&column=6)
+ 
 
 ## GitHub Analytics
 
