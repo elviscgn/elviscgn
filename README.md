@@ -91,30 +91,31 @@ pub fn main() void {
 </p>
 
 ---
-
 ## 🏆 Awards
 
 <div align="center">
-<br/>
-
-<table border="0">
-  <tr>
-    <td align="center" width="340">
-      <img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-ITWeb%20SS26Hack-FF6B35?style=for-the-badge&labelColor=0d1117" />
-      <br/><br/>
-      <sub><b>ITWeb Security Summit Hackathon 2026</b></sub><br/>
-      <sub>🥇 National Champions · Sandton Convention Centre</sub>
-    </td>
-    <td align="center" width="340">
-      <img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-Mjanga%20AI%20Challenge-FF6B35?style=for-the-badge&labelColor=0d1117" />
-      <br/><br/>
-      <sub><b>Mjanga AI Hackathon</b></sub><br/>
-      <sub>🥇 First Place · Africa wide hackathon</sub>
-    </td>
-  </tr>
+<table>
+<tr>
+<td align="center" width="290">
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-Entelect%20University%20Cup-FF6B35?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+<b>Entelect University Cup 2026</b><br/>
+<sub>🥇 1st Place · Optimisation & Programming</sub>
+</td>
+<td align="center" width="290">
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-ITWeb%20SS26Hack-FF6B35?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+<b>ITWeb Security Summit Hackathon 2026</b><br/>
+<sub>🥇 National Champions · Sandton Convention Centre</sub>
+</td>
+<td align="center" width="290">
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-Mjanga%20AI%20Challenge-FF6B35?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+<b>Mjanga AI Hackathon</b><br/>
+<sub>🥇 1st Place · Pan-African AI Challenge</sub>
+</td>
+</tr>
 </table>
 
 <br/>
+
 </div>
 
 ---
