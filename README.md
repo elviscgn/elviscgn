@@ -97,6 +97,11 @@ pub fn main() void {
 <table>
 <tr>
 <td align="center" width="290">
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-Geekulcha%20%23GKHack26-FF6B35?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+<b>Geekulcha Annual Hackathon 2026</b><br/>
+<sub>🥇 1st Place · Overall Winner</sub>
+</td>
+<td align="center" width="290">
 <img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-Entelect%20University%20Cup-FF6B35?style=for-the-badge&labelColor=0d1117" /><br/><br/>
 <b>Entelect University Cup 2026</b><br/>
 <sub>🥇 1st Place · Optimisation & Programming</sub>
