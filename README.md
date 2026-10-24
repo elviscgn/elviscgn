@@ -31,7 +31,7 @@ pub fn main() void {
             .from = "🇰🇪 Kiambu",
             .based = "🇿🇦 Johannesburg",
         },
-        .currently_at = "WeThinkCode_ + freelancing",
+        .currently_at = "Freelancing",
         .building = &.{
             "databases from scratch",
             "chess engines in Zig",
